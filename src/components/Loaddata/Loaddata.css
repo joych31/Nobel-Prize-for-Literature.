@@ -1,0 +1,13 @@
+.detail{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    /* border-right: 1px solid rgb(24, 20, 20); */
+    }
+
+
+
+.loaddata{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+

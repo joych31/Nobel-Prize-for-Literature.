@@ -1,0 +1,13 @@
+.header{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-size: larger;
+    font-style: italic;
+    background: linear-gradient(#000000,#463434);
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+

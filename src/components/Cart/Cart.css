@@ -1,0 +1,11 @@
+.cart_data{
+    background: linear-gradient(#000000,#463434);
+    color: white;
+
+    border-radius: 20px;
+    text-align: center;
+}
+
+.show-data{
+    text-align: center;
+}

@@ -1,18 +1,23 @@
+## Top 10 Winners of the Nobel Prize for Literature
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was netlify with [Create React App](https://blissful-montalcini-c85363.netlify.app/).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Here you can see their name, country, Literary area, Monthly Earn $30000 and image so more.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## For Literature you can go to the root of your heart.
+## Literature
+Literature broadly is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose fiction, drama, and poetry.
+## History of Nobel Prize
+The Nobel Prize for Literature is awarded, according to the will of Swedish inventor and industrialist Alfred Bernhard Nobel, “to those who, during the preceding year, shall have conferred the greatest benefit on mankind” in the field of literature. It is conferred by the Swedish Academy in Stockholm.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 ### `npm test`
 
