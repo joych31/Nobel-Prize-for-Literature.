@@ -1,13 +1,13 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 import './Displaydata.css'
 
 const Displaydata = (props) => {
     // console.log(props);
     // distructuring
     const {image,name,country,area,year,earn} = props.detail;
-    const element = <FontAwesomeIcon icon={faShoppingCart} />
+    const element = <FontAwesomeIcon icon={faCoffee} />
     return (
      <div className='displaydata'>
 
@@ -24,7 +24,7 @@ const Displaydata = (props) => {
             onClick={() => props.handleAddToCart(props.detail)}
             className='add_btn'
             
-            >{element}Add to cart</button>
+            >{element}Get Hired</button>
 
     </div>
 
